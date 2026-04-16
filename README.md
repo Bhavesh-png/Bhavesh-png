@@ -1,5 +1,60 @@
-# 💫 About Me:
-👋 Hi, I'm Bhavesh<br><br>🎓 MCA (Integrated) Student<br>💻 Aspiring Full-Stack Java Developer<br><br>🚀 Currently Learning:<br><br>* Java Programming<br>* Full Stack Java (JSP, Servlets, JDBC)<br>* HTML, CSS, JavaScript<br><br>🧠 Improving:<br>Data Structures • Problem Solving • Backend Development<br><br>🎯 Goal:<br>Become a professional Full-Stack Java Developer<br><br>📂 Building real-world projects and continuously improving my skills<br><br>🌱 Always learning | Always growing<br>
+# 👋 Hi, I'm Bhavesh
+
+🎓 MCA (Integrated) Student
+💻 Aspiring **Full-Stack Java Developer**
+
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning **Java & Full Stack Java Development**
+* 💡 Exploring **JSP, Servlets, JDBC, and Web Technologies**
+* 🧠 Improving **Data Structures, Problem Solving & Backend Skills**
+* 🎯 Goal: Become a **Professional Full-Stack Developer**
+* 📂 Building real-world projects to gain hands-on experience
+
+---
+
+## 🛠️ Tech Stack
+
+💻 Languages & Tools:
+
+* ☕ Java
+* 🌐 HTML, CSS, JavaScript
+* 🗄️ MySQL
+* 🔧 JDBC, Servlets, JSP
+
+---
+
+## 📊 Currently Working On
+
+* 🔹 Java Projects (Console + Web Apps)
+* 🔹 Backend Development using Java
+* 🔹 Strengthening Problem-Solving Skills
+
+---
+
+## 🎯 Future Goals
+
+* 🚀 Master Full Stack Java (Frontend + Backend)
+* 📱 Build scalable web applications
+* 💼 Get placed as a Software Developer
+
+---
+
+## 🌟 Fun Fact
+
+✨ "Code. Learn. Build. Repeat."
+
+---
+
+## 📫 Connect With Me
+
+* 💼 GitHub: https://github.com/Bhavesh-png
+
+---
+
+
 
 
 ## 🌐 Socials:
@@ -22,3 +77,4 @@
 [![](https://komarev.com/ghpvc/?username=Bhavesh-png&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐️ *Thanks for visiting my profile!*
