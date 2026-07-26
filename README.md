@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/banners/linkedin-banner.png" width="100%" alt="LinkedIn Banner" style="margin-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/banners/linkedin-banner.png" width="100%" alt="LinkedIn Banner" style="clip-path: inset(0 round 30px);" />
 </div>
 <div align="center">
 
