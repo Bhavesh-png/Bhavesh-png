@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/banners/linkedin-banner.png" width="100%" alt="LinkedIn Banner" style="margin-bottom: 20px;" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=300&section=header&text=Bhavesh%20Mahendra%20Borse&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Integrated%20MCA%20Student%20(3rd%20Year)%20%7C%20Maharashtra,%20India&descAlignY=70&descAlign=50&fontAlignY=40" width="100%" />
 
   <a href="https://github.com/Bhavesh-png">
@@ -116,7 +120,7 @@ I am an **Integrated MCA Student (3rd Year)** from Maharashtra, India, with a de
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🌟 ECSoC</h3>
+      <h3><img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/icons/ECSoC.png" width="24" style="vertical-align: middle;"/> ECSoC</h3>
       <p>Recognized for outstanding contributions and open-source development.</p>
     </td>
     <td width="50%" align="center">
@@ -131,14 +135,19 @@ I am an **Integrated MCA Student (3rd Year)** from Maharashtra, India, with a de
 ## 📜 Certifications
 
 <div align="center">
-
-| Provider | Certification / Platform | Field |
-|----------|--------------------------|-------|
-| **Google** | [Google Cloud Skills Boost](https://www.skills.google/public_profiles/22da7cf5-3e1a-4ea9-b584-9237e0f68e57) | Cloud Architecture & Data |
-| **Microsoft** | [Microsoft Learn](https://learn.microsoft.com/en-us/users/bhaveshborse-5570/) | Azure & Cloud Services |
-| **Coding Ninjas** | Advanced Data Structures & Algorithms | Problem Solving |
-| **Hack2Skill** | [Hack2Skill Profile](https://hack2skill.com/dashboard/user_public_profile/?userId=695babaeaeafd7054b92f929) | Innovation & Hackathons |
-
+  <a href="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/certificate-1.jpg">
+    <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/certificate-1.jpg" width="48%" style="margin-bottom: 10px;" alt="Certificate 1" />
+  </a>
+  <a href="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/certificate-2.jpg">
+    <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/certificate-2.jpg" width="48%" style="margin-bottom: 10px;" alt="Certificate 2" />
+  </a>
+  <br/>
+  <a href="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/ai-agents.png">
+    <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/ai-agents.png" width="48%" alt="AI Agents Certificate" />
+  </a>
+  <a href="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/kaggle.png">
+    <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/kaggle.png" width="48%" alt="Kaggle Certificate" />
+  </a>
 </div>
 
 ---
