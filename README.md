@@ -172,8 +172,7 @@ I am an **Integrated MCA Student (3rd Year)** from Maharashtra, India, passionat
     <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/kaggle.png" width="48%" alt="Kaggle Certificate" />
   </a>
 </div>
-
-## 
+<hr>
 <h2 align="center">📂 Featured Projects</h2>
 <table align="center" width="100%">
   <tr>
