@@ -158,19 +158,18 @@ I am an **Integrated MCA Student (3rd Year)** from Maharashtra, India, passionat
 <h2 align="center">📜 Certifications</h2>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/certificate-1.jpg">
-    <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/certificate-1.jpg" width="48%" style="margin-bottom: 10px;" alt="Certificate 1" />
-  </a>
-  <a href="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/certificate-2.jpg">
-    <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/certificate-2.jpg" width="48%" style="margin-bottom: 10px;" alt="Certificate 2" />
-  </a>
-  <br/>
-  <a href="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/ai-agents.png">
-    <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/ai-agents.png" width="48%" alt="AI Agents Certificate" />
-  </a>
-  <a href="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/kaggle.png">
-    <img src="https://raw.githubusercontent.com/Bhavesh-png/Bhavesh-png/main/assets/certificates/kaggle.png" width="48%" alt="Kaggle Certificate" />
-  </a>
+
+<a href="https://drive.google.com/drive/folders/1PWotpqT4n9l5VQKA18CtVd-xYAwbQQbx?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/View%20All%20Certificates-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Certificates"/>
+</a>
+
+<br><br>
+
+<p>
+  🎓 Click the button above to explore all my certifications,
+  hackathon certificates, course completions, and achievements.
+</p>
+
 </div>
 <hr>
 <h2 align="center">📂 Featured Projects</h2>
