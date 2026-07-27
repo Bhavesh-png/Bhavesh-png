@@ -154,7 +154,7 @@ I am an **Integrated MCA Student (3rd Year)** from Maharashtra, India, passionat
     </td>
   </tr>
 </table>
-## 
+
 <h2 align="center">📜 Certifications</h2>
 
 <div align="center">
